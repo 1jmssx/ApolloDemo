@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-dubbo-api" />
+        <module name="spring-boot-dubbo-consumer" />
+        <module name="spring-boot-dubbo-provider" />
+        <module name="spring-boot-encrypt" />
+        <module name="spring3" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apollo-use-cases" target="1.8" />
+      <module name="ApolloDemo" target="1.8" />
+      <module name="dubbo" target="1.8" />
+      <module name="dynamic-datasource" target="1.8" />
+      <module name="spring-boot-dubbo" target="1.8" />
+      <module name="spring-boot-dubbo-api" target="1.8" />
+      <module name="spring-boot-dubbo-consumer" target="1.8" />
+      <module name="spring-boot-dubbo-provider" target="1.8" />
+      <module name="spring-boot-encrypt" target="1.8" />
+      <module name="spring-boot-logger" target="1.8" />
+      <module name="spring-cloud-logger" target="1.8" />
+      <module name="spring-cloud-zuul" target="1.8" />
+      <module name="spring3" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
